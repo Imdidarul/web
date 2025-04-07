@@ -1,0 +1,12 @@
+{
+  "name": "nocturnespecs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"sass ./CSS/style.scss style.css --watch"
+  },
+  "author": "Didarul Islam laskar",
+  "license": "ISC"
+}
